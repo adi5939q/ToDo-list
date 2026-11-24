@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A clean, responsive smart To-Do List dashboard with full CRUD task management, automatic overdue tracking, category breakdowns, JSON backup, and LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
